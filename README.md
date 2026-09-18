@@ -1,4 +1,4 @@
-i mainly do stuff in c# and i mainly make scp sl plugins. i do dabble a bit in networking doe. i have interests in learning c++ and rust.
+currently learning rust, i make scp: sl plugins in c#, i do networking as well
 
 discord is acecrum
 
