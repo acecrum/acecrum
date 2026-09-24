@@ -4,4 +4,6 @@ discord is acecrum
 
 studying cybersecurity
 
+i admire simplicity more than complexity
+
 (yes, i only type in lowercase)
